@@ -2,7 +2,7 @@
 
 JAVA环境下载(Windows)：https://www.lanzous.com/ia8p55i
 
-JAVA环境下载(Linux)：
+JAVA环境下载(Linux)：yum install -y java-1.8.0-openjdk.x86_64
 
 server.jar核心文件下载：https://www.lanzous.com/i9q7a8f
 
